@@ -1,0 +1,20 @@
+[
+  {
+    "title": "3 Idiots",
+    "releaseYear": 2009,
+    "genre": ["Comedy", "Drama"],
+    "director": "Rajkumar Hirani",
+    "actors": ["Aamir Khan", "Kareena Kapoor"],
+    "language": "Hindi",
+    "country": "India",
+    "rating": 8.1,
+    "reviews": [{
+      "text": "Such a brilient movie.",
+      "rating": 8
+    }],
+    "plot": "Two friends search for their long-lost college buddy.",
+    "awards": "Multiple Filmfare Awards",
+    "posterUrl": "https://example.com/poster7.jpg",
+    "trailerUrl": "https://example.com/trailer7.mp4"
+  }
+]

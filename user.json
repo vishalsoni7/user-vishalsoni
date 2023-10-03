@@ -1,0 +1,10 @@
+[
+  {
+    "email": "user@example.com",
+    "password": "secretpassword",
+    "profilePicture": "https://example.com/profile.jpg",
+    "userName": "exampleuser",
+    "phoneNumber": "123456789",
+    "address": "India"
+  }
+]
